@@ -1,0 +1,79 @@
+		.brandimage{
+			width: 170px;
+			height: 70px;
+		}
+		div .look{
+			font-size: 13px;
+			position: relative;
+			left:160px;
+			text-decoration: none;
+			color: black; 
+		}
+		.look1{
+			font-size: 13px;
+			text-decoration: none;
+			color: black;
+			position: relative;
+			right: 10px;
+		}
+		.link{
+			font-size: 14px;
+			text-decoration: none;
+			position: relative;
+			bottom: 20px;
+			left: 121px;
+			color: gray;
+			font-weight: bold;
+
+		}
+		.button{
+			text-decoration: none;
+		}
+		.brandimage2{
+			width: 120px;
+			height: 75px;
+		}
+		.bike{
+			font-size: 15px;
+		}
+		input[type='text']{
+			width: 232px;
+			height: 40px;
+		}
+		button[type='submit']{
+			width: 100px;
+			height: 40px;
+		}
+		.image
+		{
+			background-image: url(https://static.carthrottle.com/workspace/uploads/posts/2016/03/bfc4b163b16c63a8bc07e3091a9d375c.jpg);
+			height: 100vh;
+			background-repeat: no-repeat;
+			background-size: cover;
+		
+		}
+		
+		.search-box{
+			width: 400px;
+			height: 350px;
+			position: relative;
+			top: 100px;
+			left: 100px;
+			border-radius: 20px;
+
+		}
+		.search-box-b{
+			width: 50%;
+			margin: auto;
+			margin-bottom: 20px;
+		}
+		.bar
+		{
+			font-size: 20px;
+		}
+		.heading
+		{
+			font-weight: bold;
+			font-family: 'arial',sans-serif;
+			text-align: center;
+		}

@@ -1,0 +1,47 @@
+.img
+		{
+			background-image: url(https://images.carandbike.com/bike-images/gallery/royal-enfield/meteor-350/exterior/royalenfield-metero-look.jpg?v=2020-11-06);
+			height:100vh;
+			background-size: cover;
+		}
+		.margin
+		{
+			top: 120px;
+		}
+		.pickup
+		{
+			height: 150px;
+			border-radius: 20px;
+			padding-top: 10px;
+			font-size: 20px;
+		}
+		.why-rent
+		{
+			padding: 50px 20px;
+			background-color: ghostwhite;		
+		}
+		.footer
+		{
+			background-color: black;
+			color: white;	
+		}
+		.buttom-footer
+		{
+			background-color: gray;
+			color: white;
+		}
+		.hrading{
+			font-weight: bold;
+		}
+		.footer-para
+		{
+			text-align: justify;
+			padding: 5px 80px 5px 50px;
+		}
+		.links a
+		{
+			color: white;
+			text-decoration: none;
+			display: inline-grid;
+			padding: 5px 10px 5px 20px;
+		}
